@@ -186,3 +186,15 @@ h1 {
 .footer-icons{
     padding: 1rem .7rem 2rem .7rem;
 }
+
+
+@media (max-width: 1028px)
+{
+    .title-image{
+        position:static;
+        transform: rotate(0);
+    }
+    #title{
+        text-align: center;
+    }
+}
