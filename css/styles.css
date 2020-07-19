@@ -46,14 +46,16 @@ h1 {
 
 /* Title Image */
 .title-image{
-     padding-left: 2.5rem; 
+     right: 30%; 
+     position: absolute;
      width: 60%; 
-    transform: rotate(25deg);
+     transform: rotate(25deg);
 }
 
 
 #features{
     padding: 7% 15% 7% 15%;
+    position: relative;
 }
 .feature-icon{
     color: #ef8172;
