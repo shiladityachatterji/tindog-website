@@ -56,6 +56,7 @@ h1 {
 #features{
     padding: 7% 15% 7% 15%;
     position: relative;
+    background-color: white;
 }
 .feature-icon{
     color: #ef8172;
